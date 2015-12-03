@@ -1,0 +1,6 @@
+
+
+aws {
+    accessKey = 
+    secretKey = 
+}
